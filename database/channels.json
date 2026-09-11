@@ -1,0 +1,29 @@
+[
+  {
+    "id": "saolorenzo",
+    "name": "São Lorenzo",
+    "keywords": [
+      "são lorenzo",
+      "sao lorenzo",
+      "san lorenzo"
+    ],
+    "aliases": [],
+    "url": "https://youtube.com/@saolorenzoedanetianatoetc.8076",
+    "platform": "YouTube",
+    "category": "ball"
+  },
+  {
+    "id": "gupermogal",
+    "name": "Gupermogal",
+    "keywords": [
+      "gupermogal"
+    ],
+    "aliases": [
+      "gupermagol",
+      "gupemogal"
+    ],
+    "url": "https://youtube.com/@tramanu2026",
+    "platform": "YouTube",
+    "category": "ball"
+  }
+]

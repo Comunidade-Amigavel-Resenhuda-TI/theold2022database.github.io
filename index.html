@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TheOld2022Database</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main class="container">
+
+    <header>
+      <h1>TheOld2022Database</h1>
+      <p>Um índice comunitário para encontrar canais e conteúdos difíceis de localizar.</p>
+    </header>
+
+    <section class="search-box">
+      <input
+        id="searchInput"
+        type="search"
+        placeholder="Pesquise um canal, nome ou palavra-chave..."
+        autocomplete="off"
+      >
+
+      <button id="searchButton">
+        Pesquisar
+      </button>
+    </section>
+
+    <p id="status" class="status">
+      Carregando database...
+    </p>
+
+    <section id="results" class="results"></section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
